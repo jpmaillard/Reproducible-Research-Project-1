@@ -1,12 +1,3 @@
----
-title: "Reproducible Research: Peer Assessment 1"
-author: "Jean-Philippe Maillard"
-date: "6/24/2019"
-output: 
-  html_document:
-    keep_md: true
----
-
 ## Introduction
 It is now possible to collect a large amount of data about personal
 movement using activity monitoring devices such as a
